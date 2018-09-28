@@ -20,7 +20,7 @@ puts "5 skills created"
   Portfolio.create!(title: "portfolios #{port}",
   subtitle: "my greatest service",
 body:"whatever  i write here is vakid again",
-main_image: "http://palceholder.it/600x400",
-thumb_image: "http://palceholder.it/300x250")
+main_image: "https://via.placeholder.com/600x400",
+thumb_image: "https://via.placeholder.com/350x250")
 end
 puts"portfolios successfuly created duh!"
